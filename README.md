@@ -1,4 +1,4 @@
-## __Random information of people using API__
+## **Random information of people using API**
 
 
 ```bash
